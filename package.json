@@ -1,5 +1,5 @@
 {
-	"name": "msgpack",
+	"name": "silk-msgpack",
 	"description": "A space-efficient object serialization library for node.js",
 	"version": "1.0.2",
 	"homepage": "https://github.com/msgpack/msgpack-node",
@@ -58,7 +58,7 @@
 	],
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/msgpack/msgpack-node.git"
+		"url": "https://github.com/silkedit/msgpack-node.git"
 	},
 	"main": "./lib/msgpack",
 	"directories": {
